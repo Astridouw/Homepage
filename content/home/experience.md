@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Coordinator
+  - title: Team Member
     company: Beamm project
     company_url: ''
     company_logo: Beamm
     location: Brussels
-    date_start: '2019-01-01'
+    date_start: '2020-09-15'
     date_end: ''
     description: |2-
         Beamm is
@@ -36,38 +36,8 @@ experience:
         * available online and in open-access
         * running on mostly administrative data
         * and a platform for scientific research and policy support
-  - title: Promoter
-    company: Beamm.brussels
-    company_url: ''
-    company_logo: Beamm-br
-    location: Brussels
-    date_start: '2020-01-02'
-    date_end: ''
-    description: |2-
-        Beamm.brussels is
-        
-        * a project to built a comprehensive tax-benefit microsimulation model for the Brussels Capital Region
-        * available online and in open-access at beamm.brussels (coming soon)
-        * running on a micro-dataset representing the population of the Brussels Capital Region 
-        * focussing on tax-benefit competences of the Region
-        * beamm.brussels is funded by Innoviris in the Prospective Research for Brussels program
 
-  
-       
-  - title: Researcher
-    company: Smartmove
-    company_url: ''
-    company_logo: smartmove
-    location: Brussels
-    date_start: '2020-09-01'
-    date_end: ''
-    description: |2-
-        summary
-        
-        * project to assess the socio-economic impact of Smartmove
-        * Smartmove is a system of smart kilometer charges for the Brussels Capital Region
-        * together with Transport & Mobility Leuven
-        * report first stage available in <a href="https://smartmove.brussels/content/dam/smartmove/common/documents/SmartMove_Impactstudie_NL.pdf"> NL </a> or <a href="https://smartmove.brussels/content/dam/smartmove/common/documents/SmartMove_Analysed%27impact_FR.pdf"> FR </a>
+
   - title: Methodological support
     company: Institut bruxellois de statistique et analyse (IBSA-BISA)
     company_url: ''
@@ -78,7 +48,7 @@ experience:
     description: |2-
         summary
         
-        * Various methodological support for IBSA-BISA
+        * Methodological support for IBSA-BISA about Spending Reviews
     
 
 design:
