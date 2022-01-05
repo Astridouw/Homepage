@@ -1,26 +1,18 @@
 ---
 education:
   courses:
-  - course: PhD in Economics
-    institution: KU Leuven
-    year: 2008
-  - course: MSc in Economics
-    institution: KU Leuven
-    year: 2003
-  - course: Master in Economics (licentiaat)
-    institution: KU Leuven
-    year: 2002
-  - course: Master in History (licentiaat)
-    institution: KU Leuven
-    year: 1999
-email: tom.truyts@usaintlouis.be
+  - course: Master in Economics
+    institution: Economic School of Louvain (UClouvain)
+    year: 2020
+  - course: Bachelor in Economics and Management - Architecture minor
+    institution: Université Catholique de Louvain
+    year: 2018
+email: astrid.adam@usaintlouis.be
 highlight_name: true
 interests:
-- Public finance
+- Public economics
 - Microsimulation modelling
-- Data science
-- Transport, environment, social inequality, fiscal federalism
-- I used to work on game theory, auction theory, economic history
+- Transport and mobility, environment, social inequality
 organizations:
 - name: Université Saint-Louis - Bruxelles
   url: http://www.usaintlouis.be/
@@ -43,9 +35,9 @@ social:
 superuser: true
 title: Astrid Adam
 ---
+Astrid is a teaching assistant at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>. She graduated with honors from a Master in Economics at the Université Catholique de Louvain in 2020.During her Master, she participated in the Erasmus+ Program for one semester at the Bocconi University in Milan. 
+ 
+Her research interests are public economics and more precisely mobility and its impacts on the population. She also has experience in Spending Reviews, which is a growing field in government budget management.
+She is a member of the Beamm project an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium.
 
-Tom Truyts is a professor of public economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  His research interests include public finance, microsimulation modelling, transport and environmental economics, fiscal federalism and data science. His former research was focussing on game theory, auction theory and economic history. 
-Tom Truyts coordinates the Beamm project, an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium. 
-
-Tom Truyts is the director (together with Gilles Grandjean) of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>), co-director of the Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
 
