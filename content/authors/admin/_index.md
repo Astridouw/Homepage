@@ -10,9 +10,9 @@ education:
 email: astrid.adam@usaintlouis.be
 highlight_name: true
 interests:
+- Transport and mobility, environment, social inequality
 - Public economics
 - Microsimulation modelling
-- Transport and mobility, environment, social inequality
 organizations:
 - name: Université Saint-Louis - Bruxelles
   url: http://www.usaintlouis.be/
@@ -39,7 +39,7 @@ I'm Astrid, a teaching assistant at the <a href="https://www.usaintlouis.be">UCl
  
 My research interests is public economics and more precisely mobility and its impacts on the population. 
 
-I am a member of the <a href="https://beamm.brussels/">Beamm</a>  project an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium.
+I am a member of the <a href="https://beamm.brussels/">Beamm</a>  project : an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium.
 I also have experience in spending reviews, which is a growing field in government budget management.
 
 
