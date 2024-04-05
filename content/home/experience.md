@@ -44,7 +44,7 @@ experience:
     company_logo: BXL
     location: Brussels
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2022-12-01'
     description: |2-
         summary
         
