@@ -7,7 +7,7 @@ education:
   - course: Bachelor in Economics and Management - Architecture minor
     institution: Université Catholique de Louvain
     year: 2018
-email: astrid.adam@usaintlouis.be
+email: astrid.adam@uclouvain.be
 highlight_name: true
 interests:
 - Transport and mobility, environment, social inequality
