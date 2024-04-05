@@ -35,9 +35,10 @@ social:
 superuser: true
 title: Astrid Adam
 ---
-Astrid is a teaching assistant at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>. She graduated with honors from a Master in Economics at the Université Catholique de Louvain in 2020. During her Master, she participated in the Erasmus+ Program for one semester at the Bocconi University in Milan. 
+I'm Astrid, a teaching assistant at the <a href="https://www.usaintlouis.be">UClouvain Saint-Louis - Bruxelles</a>. I graduated with honors from a Master in Economics at the UCLouvain in 2020. During my Master, I participated in the Erasmus+ Program for one semester at the Bocconi University in Milan. 
  
-Her research interests are public economics and more precisely mobility and its impacts on the population. She also has experience in Spending Reviews, which is a growing field in government budget management.
-She is a member of the Beamm project an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium.
+My research interests is public economics and more precisely mobility and its impacts on the population. 
+I am a member of the <a href="https://beamm.brussels/">Beamm</a>project an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium .I also have experience in spending reviews, which is a growing field in government budget management.
+
 
 
