@@ -39,7 +39,7 @@ I'm Astrid, a teaching assistant at the <a href="https://www.usaintlouis.be">UCl
  
 My research interests is public economics and more precisely mobility and its impacts on the population. 
 
-I am a member of the <a href="https://beamm.brussels/">Beamm</a> project an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium.
+I am a member of the <a href="https://beamm.brussels/">Beamm</a>  project an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium.
 I also have experience in spending reviews, which is a growing field in government budget management.
 
 
